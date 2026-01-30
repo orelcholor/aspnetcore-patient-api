@@ -1,0 +1,6 @@
+@PatitasVelocesProject_HostAddress = http://localhost:5108
+
+GET {{PatitasVelocesProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
